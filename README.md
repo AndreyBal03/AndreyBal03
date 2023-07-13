@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Andrey.<br>I'm Actually studying the university, I've programmed since I was 14 (I'm 18 years old while I'm writing this)<br>I''m passionate about new technology and I'm usually trying to upgrade my knowledge about that kind of things<br><br>I speak English and Spanish as my mother tongue.
+Hi, I'm Andrey.<br>I'm Actually studying the university, I've programmed since I was 14 (I'm 18 years old while I'm writing this)<br>I''m passionate about new technology and I'm usually trying to upgrade my knowledge about that kind of things<br><br>I speak English and Spanish as my first language.
 
 
 ## 🌐 Socials:
