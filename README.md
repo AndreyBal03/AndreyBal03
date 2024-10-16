@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello, I'm Andrey.
-I'm currently enrolled in university and have been coding since I was 14; I'm currently 18. My passion lies in exploring new technologies, constantly striving to expand my knowledge in this realm. I find joy in learning new things, considering it more of a hobby than a chore.<br><br>English and Spanish are my primary languages..
+I'm currently enrolled in university and have been coding since I was 14; I'm currently 18. My passion lies in exploring new technologies, constantly striving to expand my knowledge in this realm. I find joy in learning new things, considering it more of a hobby than a chore.<br><br>English and Spanish are my main languages..
 
 
 ## 🌐 Socials:
